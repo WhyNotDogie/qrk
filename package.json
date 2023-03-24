@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/WhyNotDogie/qrk/issues"
   },
-  "homepage": "https://github.com/WhyNotDogie/qrk#readme"
+  "homepage": "https://github.com/WhyNotDogie/qrk#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.7",
+    "typescript": "^5.0.2"
+  }
 }
